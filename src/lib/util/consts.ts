@@ -4,7 +4,7 @@ import { PUB_DISABLE_ALL_EXTERNAL_REQUESTS, PUB_ENV, PUB_DISABLE_FAILURE_BLOCKS 
 export const GITHUB_URL_PROJECT = "https://github.com/Mukum54/CYBER-KWITEH";
 export const GITHUB_URL_VERTD = "https://github.com/VERT-sh/vertd";
 export const LINKEDIN_URL = "https://www.linkedin.com/in/mukum-dieudonne-158907378/";
-export const COMPANY_WEBSITE = "https://cyberweb.cm";
+export const COMPANY_WEBSITE = "https://cyberweb237.vercel.app/";
 export const DISCORD_URL = "https://discord.gg/kqevGxYPak";
 
 // Project Name
