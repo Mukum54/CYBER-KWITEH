@@ -66,7 +66,7 @@ CYBER KWITEH is developed by **CYBER WEB**, an IT and digital innovation company
 - **Email**: cyberweb237@gmail.com
 - **Phone**: +237 654 492 652
 - **Location**: Carrefour Etoug-Ebe, Yaoundé, Cameroon
-- **Website**: [cyberweb.cm](https://cyberweb.cm)
+- **Website**: [cyberweb.cm](https://cyberweb237.vercel.app/)
 - **LinkedIn**: [Mukum Dieudonne](https://www.linkedin.com/in/mukum-dieudonne-158907378/)
 
 ## 📄 License
