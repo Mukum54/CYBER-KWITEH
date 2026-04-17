@@ -1,4 +1,4 @@
-import { PUB_DISABLE_ALL_EXTERNAL_REQUESTS, PUB_ENV } from "$env/static/public";
+import { PUB_DISABLE_ALL_EXTERNAL_REQUESTS, PUB_ENV, PUB_DISABLE_FAILURE_BLOCKS } from "$env/static/public";
 
 // CYBER KWITEH - Project Links
 export const GITHUB_URL_PROJECT = "https://github.com/Mukum54/CYBER-KWITEH";

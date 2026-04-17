@@ -2,7 +2,6 @@
         import * as About from "$lib/sections/about";
         import { InfoIcon } from "lucide-svelte";
         import { FOUNDER_NAME, COMPANY_NAME, COMPANY_WEBSITE, LINKEDIN_URL, GITHUB_URL_PROJECT } from "$lib/util/consts";
-        import { PUB_DONATION_URL, PUB_STRIPE_KEY } from "$env/static/public";
         import { DISABLE_ALL_EXTERNAL_REQUESTS } from "$lib/util/consts";
         import { m } from "$lib/paraglide/messages";
 </script>
