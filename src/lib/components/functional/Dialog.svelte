@@ -7,8 +7,7 @@
 
 	type Props = DialogType;
 
-	let { id, title, message, buttons, type, ...rest }: Props = $props();
-	const additional = $derived("additional" in rest ? (rest as any).additional : undefined);
+	let { id, title, message, buttons, type, additional }: Props = $props();
 
 	const colors = {
 		success: "purple",

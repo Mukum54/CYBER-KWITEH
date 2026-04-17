@@ -12,9 +12,9 @@
 	import type { ToastProps } from "$lib/util/toast.svelte";
 	import type { SvelteComponent } from "svelte";
 	import clsx from "clsx";
-	import type { Toast as ToastType } from "$lib/util/toast.svelte";
+	import type { Toast } from "$lib/util/toast.svelte";
 
-	let { toast }: { toast: ToastType<any> } = $props();
+	let { toast }: { toast: Toast<any> } = $props();
 	let { id, type, message, durations } = $derived(toast);
 	let additional = $derived("additional" in toast ? (toast as any).additional : {});
 
